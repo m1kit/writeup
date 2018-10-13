@@ -2,14 +2,14 @@ Team `HaruharaMai` として出場し29235点を獲得しました。僕が書�
 
 | Name                                                              |  Points |  Solves |  Genre               |  Solved?  |  Solver     | 
 |-------------------------------------------------------------------|---------|---------|----------------------|-----------|-------------| 
-| [Forensics Warmup 1](1.md#forensics-warmup-1)                     |  50     |  8745   |  Forensics           |  Solved   |  -          | 
-| [Forensics Warmup 2](1.md#forensics-warmup-2)                     |  50     |  8304   |  Forensics           |  Solved   |  -          | 
-| [General Warmup 1](1.md#general-warmup-1)                         |  50     |  10633  |  General Skills      |  Solved   |  -          | 
-| [General Warmup 2](1.md#general-warmup-2)                         |  50     |  10562  |  General Skills      |  Solved   |  -          | 
-| [General Warmup 3](1.md#general-warmup-3)                         |  50     |  10409  |  General Skills      |  Solved   |  -          | 
+| [Forensics Warmup 1](1.md#forensics-warmup-1)                     |  50     |  8745   |  Forensics           |  Solved   |  mikit      | 
+| [Forensics Warmup 2](1.md#forensics-warmup-2)                     |  50     |  8304   |  Forensics           |  Solved   |  mikit      | 
+| [General Warmup 1](1.md#general-warmup-1)                         |  50     |  10633  |  General Skills      |  Solved   |  mikit      | 
+| [General Warmup 2](1.md#general-warmup-2)                         |  50     |  10562  |  General Skills      |  Solved   |  mikit      | 
+| [General Warmup 3](1.md#general-warmup-3)                         |  50     |  10409  |  General Skills      |  Solved   |  mikit      | 
 | [Resources](1.md#resources)                                       |  50     |  9494   |  General Skills      |  Solved   |  -          | 
-| [Reversing Warmup 1](1.md#reversing-warmup-1)                     |  50     |  6188   |  Reversing           |  Solved   |  -          | 
-| [Reversing Warmup 2](1.md#reversing-warmup-2)                     |  50     |  7445   |  Reversing           |  Solved   |  -          | 
+| [Reversing Warmup 1](1.md#reversing-warmup-1)                     |  50     |  6188   |  Reversing           |  Solved   |  mikit      | 
+| [Reversing Warmup 2](1.md#reversing-warmup-2)                     |  50     |  7445   |  Reversing           |  Solved   |  mikit      | 
 | [Crypto Warmup 1](1.md#crypto-warmup-1)                           |  75     |  4702   |  Cryptography        |  Solved   |  -          | 
 | [Crypto Warmup 2](1.md#crypto-warmup-2)                           |  75     |  7188   |  Cryptography        |  Solved   |  -          | 
 | [grep 1](1.md#grep-1)                                             |  75     |  7517   |  General Skills      |  Solved   |  -          | 
