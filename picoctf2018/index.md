@@ -76,7 +76,7 @@ Team `HaruharaMai` として出場し29235点を獲得しました。僕が書�
 | [quackme up](1.md#quackme-up)                                     |  350    |  371    |  Reversing           |  Solved   |  mikit      | 
 | rop chain                                                         |  350    |  390    |  Binary Exploitation |  Solved   |  eiya       | 
 | roulette                                                          |  350    |  429    |  General Skills      |  Solved   |  eiya&mikit | 
-| Malware Shops                                                     |  400    |  732    |  Forensics           |  Solved   |  mikit      | 
+| [Malware Shops](#malware-shops)                                   |  400    |  732    |  Forensics           |  Solved   |  mikit      | 
 | Radix's Terminal                                                  |  400    |  619    |  Reversing           |  Solved   |  eiya       | 
 | assembly-3                                                        |  400    |  430    |  Reversing           |  Solved   |  -          | 
 | [eleCTRic](2.md#electric)                                         |  400    |  193    |  Cryptography        |  Solved   |  mikit      | 
