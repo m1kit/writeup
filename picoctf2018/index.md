@@ -1,7 +1,5 @@
 Team `HaruharaMai` として出場し29235点を獲得しました。僕が書ける61問についてとりあえずWriteUpを置いておきます。
 
-<details><summary>目次</summary>
-
 - [Forensics Warmup 1](#forensics-warmup-1)
 - [Forensics Warmup 2](#forensics-warmup-2)
 - [General Warmup 1](#general-warmup-1)
@@ -63,8 +61,6 @@ Team `HaruharaMai` として出場し29235点を獲得しました。僕が書�
 - [Help Me Reset 2](#help-me-reset-2)
 - [special-pw](#special-pw)
 - [circuit123](#circuit123)
-
-</details>
 
 # Forensics Warmup 1
 解凍するとJPEG画像が出てくる。
@@ -1201,10 +1197,12 @@ int main()
 }
 ```
 
+
 </details>
 
 着目すべきは、`flag.txt`は絶対パス表記であるにも関わらず`permission.txt`は相対パス表記になっているということだ。
 相対パス表記の場合、基本的には`pwd`コマンドの結果のディレクトリから相対的にパスが解決される。そこで、`permission.txt`をホームディレクトリ直下に作成し、`yes`と記入しておく。その後、ホームディレクトリから絶対パス表記でプログラムを呼び出すと、ホームディレクトリに作成した`permission.txt`を参照しながらにして`flag.txt`は本来のものを参照させることができる。
+
 ```
 m1kit@pico-2018-shell-2:~$ echo 'yes                      ' > permission.txt
 m1kit@pico-2018-shell-2:~$ /problems/absolutely-relative_1_censored/absolutely-relative 
